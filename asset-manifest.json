@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/glx-trvl/static/css/main.6b3241a3.chunk.css",
+    "main.js": "/glx-trvl/static/js/main.06d6f797.chunk.js",
+    "main.js.map": "/glx-trvl/static/js/main.06d6f797.chunk.js.map",
+    "runtime-main.js": "/glx-trvl/static/js/runtime-main.d4e73d7e.js",
+    "runtime-main.js.map": "/glx-trvl/static/js/runtime-main.d4e73d7e.js.map",
+    "static/js/2.05e39359.chunk.js": "/glx-trvl/static/js/2.05e39359.chunk.js",
+    "static/js/2.05e39359.chunk.js.map": "/glx-trvl/static/js/2.05e39359.chunk.js.map",
+    "index.html": "/glx-trvl/index.html",
+    "static/css/main.6b3241a3.chunk.css.map": "/glx-trvl/static/css/main.6b3241a3.chunk.css.map",
+    "static/js/2.05e39359.chunk.js.LICENSE.txt": "/glx-trvl/static/js/2.05e39359.chunk.js.LICENSE.txt",
+    "static/media/HeroImageStyles.css": "/glx-trvl/static/media/heroImg.717ecc48.jpg",
+    "static/media/moon.91396c73.jpg": "/glx-trvl/static/media/moon.91396c73.jpg",
+    "static/media/pod.30776f82.jpg": "/glx-trvl/static/media/pod.30776f82.jpg",
+    "static/media/space.41584ed5.mp4": "/glx-trvl/static/media/space.41584ed5.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4e73d7e.js",
+    "static/js/2.05e39359.chunk.js",
+    "static/css/main.6b3241a3.chunk.css",
+    "static/js/main.06d6f797.chunk.js"
+  ]
+}
